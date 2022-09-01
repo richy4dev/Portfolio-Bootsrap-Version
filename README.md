@@ -1,19 +1,21 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Portfolio-Bootsrap-Version
 
-> Description the project.
+> Building Portfolio using Bootsrap.
 
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- Major languages include HTML and CSS
+
+- Frameworks include Bootsrap.
+
+- Technologies used is majorly Linters
 
 ## Live Demo (if available)
 
-[Live Demo Link](https://livedemo.com)
+N/A
 
 
 ## Getting Started
@@ -40,17 +42,17 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Richard Obaseki**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/richy4dev)
+- Twitter: [@twitterhandle](https://twitter.com/RichardObasek)
 
-👤 **Author2**
+👤 **Yetemegn Lemma**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@githubhandle](https://github.com/yetemgn-telaye)
+- Twitter: [@twitterhandle](https://twitter.com/Yetemegn19)
+- LinkedIn: [LinkedIn](https://linkedin.com/in/yetemegn-telaye-81370920a/
+)
 
 ## 🤝 Contributing
 
